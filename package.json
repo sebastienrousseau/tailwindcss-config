@@ -1,6 +1,6 @@
 {
   "name": "@sebastienrousseau/tailwindcss-config",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Shareable Tailwind CSS configuration providing standardized theme design tokens, color palettes, and typography.",
   "author": "Sebastien Rousseau <sebastienrousseau@users.noreply.github.com>",
   "license": "ISC",
