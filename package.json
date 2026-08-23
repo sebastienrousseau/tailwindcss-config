@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "Shareable Tailwind CSS configuration providing standardized theme design tokens, color palettes, and typography.",
   "author": "Sebastien Rousseau <sebastienrousseau@users.noreply.github.com>",
-  "license": "ISC",
+  "license": "Apache-2.0 OR MIT",
   "homepage": "https://github.com/sebastienrousseau/tailwindcss-config#readme",
   "repository": {
     "type": "git",
