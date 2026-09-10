@@ -5,6 +5,7 @@ Comprehensive schema, property definitions, and exported options reference for `
 ---
 
 ## Description
+
 Shareable Tailwind CSS design system presets with extensible themes and typography defaults.
 
 ---
@@ -22,16 +23,19 @@ Shareable Tailwind CSS design system presets with extensible themes and typograp
 ## Feature & Property Reference
 
 ### 1. Theme Extension Model
+
 - **Description**: Pre-configured theme extension points for brand colors and fonts
 - **Scope**: Production & Development
 - **Status**: Stable & Active
 
 ### 2. Zero Style Pollution
+
 - **Description**: Clean plugin architecture with zero unnecessary bundled CSS bloat
 - **Scope**: Production & Development
 - **Status**: Stable & Active
 
 ### 3. JIT Compiler Compatibility
+
 - **Description**: Optimized for lightning-fast Tailwind Just-In-Time compilation
 - **Scope**: Production & Development
 - **Status**: Stable & Active

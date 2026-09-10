@@ -20,11 +20,14 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. Theme Extension Model
+
 Pre-configured theme extension points for brand colors and fonts. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. Zero Style Pollution
+
 Clean plugin architecture with zero unnecessary bundled CSS bloat. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 3. JIT Compiler Compatibility
+
 Optimized for lightning-fast Tailwind Just-In-Time compilation. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
