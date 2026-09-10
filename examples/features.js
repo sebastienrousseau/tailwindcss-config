@@ -1,10 +1,15 @@
+// SPDX-FileCopyrightText: 2026 Sebastien Rousseau <sebastian.rousseau@gmail.com>
+// SPDX-License-Identifier: Apache-2.0 OR MIT
+
 /**
  * 100% Feature Showcase for @sebastienrousseau/tailwindcss-config
  */
 const config = require("../index.cjs");
 const assert = require("assert");
 
-console.log("=== 100% Feature Showcase: @sebastienrousseau/tailwindcss-config ===");
+console.log(
+  "=== 100% Feature Showcase: @sebastienrousseau/tailwindcss-config ===",
+);
 assert(config.theme && typeof config.theme === "object");
 assert(config.theme.extend && typeof config.theme.extend === "object");
 assert(Array.isArray(config.plugins));

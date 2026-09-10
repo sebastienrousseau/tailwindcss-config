@@ -1,6 +1,9 @@
-export interface TailwindCSSConfig {
+// SPDX-FileCopyrightText: 2026 Sebastien Rousseau <sebastian.rousseau@gmail.com>
+// SPDX-License-Identifier: Apache-2.0 OR MIT
+
+export interface TailwindcssConfig {
   [key: string]: unknown;
 }
 
-declare const config: TailwindCSSConfig;
+declare const config: TailwindcssConfig;
 export default config;
