@@ -6,7 +6,7 @@
 class TailwindcssConfig < Formula
   desc "Shareable Tailwind CSS configuration providing standardized theme design tokens, color palettes, and typography"
   homepage "https://github.com/sebastienrousseau/tailwindcss-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/tailwindcss-config/-/tailwindcss-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/tailwindcss-config/-/tailwindcss-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
